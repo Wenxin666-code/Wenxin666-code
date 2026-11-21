@@ -141,13 +141,68 @@
 
 | 时间 | 荣誉 / 奖项 | 相关活动 / 说明 |
 | :--- | :--- | :--- |
+| 2026.11 | 上海赛区本科组三等奖（初稿公示） | 2026年“高教社杯”全国大学生数学建模竞赛；与裴家安、柯浩阳组队。[查看公示](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) |
+| 2026.11 | 男子光电精准射击（手枪）团体第四名 | 上海市第十八届运动会（高校组）；与张迅迅、王少奇组成团体参赛队。[查看学校报道](https://news.sjtu.edu.cn/zhxw/20261105/227287.html) |
 | 2026.04 | 校级优秀团员 | 五四评优 |
 | 2025.11 | 优秀组长 | “青马工程”团支书培训班 |
-| 2025.11 | 优秀学员 | 入党培训班 |
+| 2025.11 | 结业考核优秀 | 数理分校第10期入党积极分子培训班 |
 | 2025.11 | 一等奖（集体荣誉） | 组织的“百年薪火传 青春跟党走”四班团支部联合团日活动获奖 |
 | 2025.04 | 校级优秀团员 | 五四评优 |
 
 <!-- 按已提供的信息记录荣誉、获奖时间与活动背景。 -->
+
+### 证书与成绩记录
+
+<details>
+<summary>2026年全国大学生数学建模竞赛 · 上海赛区本科组三等奖公示</summary>
+
+公示名单第27张图片、本科组三等奖序号495：上海交通大学，裴家安、张艺严、柯浩阳。同队队员排名不分先后。
+
+[查看完整公示（中国大学生在线，2026.11.11）](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) · [查看“三等奖”栏目标题原图](https://univs-news-1256833609.file.myqcloud.com/123/upload/resources/image/QE4DU25FQ22XKPN3EQ2XARVWLE4XAQM.jpg?watermark/1/image_key/dXBsb2FkL193YXRlcmltYWdlcy9zaXRlXzEyMy5wbmc/gravity/southeast)
+
+<img src="https://univs-news-1256833609.file.myqcloud.com/123/upload/resources/image/LE2DEQVUQ25XEPN3EQ2XARVWLE4XCQU.jpg?watermark/1/image_key/dXBsb2FkL193YXRlcmltYWdlcy9zaXRlXzEyMy5wbmc/gravity/southeast" alt="2026年数学建模竞赛上海赛区本科组三等奖公示，序号495列有裴家安、张艺严、柯浩阳" width="760">
+
+*以上依据获奖名单初稿公示记录，非获奖证书。图片来源：中国大学生在线。*
+
+</details>
+
+<details>
+<summary>2026.11 上海市第十八届运动会 · 男子手枪团体第四名</summary>
+
+2026年11月1日，代表上海交通大学参加高校组男子光电精准射击（手枪）比赛，与张迅迅、王少奇获得团体第四名，总成绩984环。
+
+[查看学校官方报道及参赛名单](https://news.sjtu.edu.cn/zhxw/20261105/227287.html)
+
+<img src="assets/honors/shooting-team-results.png" alt="上海市第十八届运动会男子光电精准射击手枪团体成绩表，上海交通大学第四名" width="660">
+
+代表队合影（来源：上海交通大学新闻学术网，照片不标注个人位置）：
+
+<img src="assets/honors/shooting-team.jpg" alt="上海交通大学光电射击代表队合影" width="760">
+
+</details>
+
+<details>
+<summary>2025.11 “青马工程”团支书培训班 · 优秀组长证书</summary>
+
+<img src="assets/honors/qingma-outstanding-leader.png" alt="张艺严，2025年秋季学期青马工程团支书培训班优秀组长结业证书" width="660">
+
+</details>
+
+<details>
+<summary>2025.11 入党积极分子培训班 · 结业考核优秀证书</summary>
+
+<img src="assets/honors/party-training-excellent.png" alt="张艺严，2025年11月12日入党积极分子培训班结业考核优秀证书" width="660">
+
+</details>
+
+<details>
+<summary>2025—2026学年秋季学期联合团日活动 · 一等奖证书（集体荣誉）</summary>
+
+获奖集体为数学2501、2502、2512、2513联合团支部。
+
+<img src="assets/honors/joint-league-first-prize.png" alt="数学2501、2502、2512、2513联合团支部，2025—2026学年秋季学期团日活动一等奖荣誉证书" width="520">
+
+</details>
 
 <!--
 ## 专业技能
