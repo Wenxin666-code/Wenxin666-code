@@ -49,6 +49,7 @@
 | 项目 | 简介 | 入口 |
 | :--- | :--- | :--- |
 | 断线前沿 · Greyhaven RTS | Godot等距视角单人即时战略游戏 | [项目仓库](https://github.com/Wenxin666-code/greyhaven-rts) · [游戏下载](https://github.com/Wenxin666-code/greyhaven-rts/releases) |
+| 二中杀 · 桌面单机版 | Pygame桌面单机卡牌游戏，含DIY技能与AI对战 | [项目仓库](https://github.com/Wenxin666-code/erzhongsha-desktop) |
 | Game Jam 玩法与角色原型 | Godot程序化玩法、角色与场景原型（Fork仓库） | [项目仓库](https://github.com/Wenxin666-code/gamejam_2612_turn) |
 
 </details>
@@ -190,8 +191,8 @@
 
 | 时间 | 荣誉 / 奖项 | 相关活动 / 说明 |
 | :--- | :--- | :--- |
-| 2026.11 | 上海赛区本科组三等奖 | 2026年“高教社杯”全国大学生数学建模竞赛 · [项目仓库](https://github.com/Wenxin666-code/cumcm-2026-a) · [查看公示](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) |
-| 2026.11 | 男子光电精准射击（手枪）团体第四名 | 上海市第十八届运动会（高校组） · [查看学校报道](https://news.sjtu.edu.cn/zhxw/20261105/227287.html) |
+| 2026.11 | 上海赛区本科组三等奖 | 2026年“高教社杯”全国大学生数学建模竞赛 |
+| 2026.11 | 男子光电精准射击（手枪）团体第四名 | 上海市第十八届运动会（高校组） |
 | 2026.04 | 校级优秀团员 | 五四评优 |
 | 2025.11 | 优秀组长 | “青马工程”团支书培训班 |
 | 2025.11 | 结业考核优秀 | 数理分校第10期入党积极分子培训班 |
