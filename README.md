@@ -10,12 +10,21 @@
 
 ## 联系方式
 
+<details>
+<summary>展开查看联系方式</summary>
+
+<blockquote>
+
 | 邮箱 | 地址 |
 | :--- | :--- |
 | 上海交通大学 | [zhangyiyan@sjtu.edu.cn](mailto:zhangyiyan@sjtu.edu.cn) |
 | QQ | [2393089894@qq.com](mailto:2393089894@qq.com) |
 | Gmail | [yiyanz@gmail.com](mailto:yiyanz@gmail.com) |
 | Outlook | [yiyanz459@outlook.com](mailto:yiyanz459@outlook.com) |
+
+</blockquote>
+
+</details>
 
 ## 教育背景
 
@@ -112,7 +121,9 @@
 
 <blockquote>
 
-**部门与岗位**：上海研究发展中心 · 工程师（实习）
+**部门**：上海研究发展中心
+
+**岗位**：工程师（实习）
 
 **参与项目**：AI for Materials 实习项目
 
