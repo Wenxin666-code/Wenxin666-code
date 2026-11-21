@@ -273,9 +273,7 @@
 
 [查看完整公示（中国大学生在线，2026.11.11）](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) · [查看项目代码与论文](https://github.com/Wenxin666-code/cumcm-2026-a)
 
-<img src="https://univs-news-1256833609.file.myqcloud.com/123/upload/resources/image/LE2DEQVUQ25XEPN3EQ2XARVWLE4XCQU.jpg?watermark/1/image_key/dXBsb2FkL193YXRlcmltYWdlcy9zaXRlXzEyMy5wbmc/gravity/southeast" alt="2026年数学建模竞赛上海赛区本科组三等奖公示，序号495列有张艺严" width="760">
-
-*以上依据获奖名单初稿公示记录，非获奖证书。图片来源：中国大学生在线。*
+*以上依据获奖名单初稿公示记录，非获奖证书。*
 
 </blockquote>
 
