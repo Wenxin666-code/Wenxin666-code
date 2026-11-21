@@ -100,6 +100,30 @@
 
 </details>
 
+## 实习与工作经历
+
+<details>
+<summary>展开查看实习与工作经历</summary>
+
+<blockquote>
+
+<details>
+<summary><strong>深圳聚塔时代材料科技有限公司</strong> ｜ 2026.07 — 至今</summary>
+
+<blockquote>
+
+**部门与岗位**：上海研究发展中心 · 工程师（实习）
+
+**参与项目**：AI for Materials 实习项目
+
+</blockquote>
+
+</details>
+
+</blockquote>
+
+</details>
+
 ## 学生工作
 
 <details>
