@@ -22,6 +22,8 @@
 <details>
 <summary>展开查看教育背景</summary>
 
+<blockquote>
+
 | 时间 | 学校 | 专业 / 阶段 |
 | :--- | :--- | :--- |
 | 2025.09 — 至今 | 上海交通大学 | 数学与应用数学、人工智能双学位；本科二年级在读 |
@@ -45,12 +47,16 @@
 - 基础物理实验（荣誉）（1）
 - 英汉口译
 
+</blockquote>
+
 </details>
 
 ## 项目导航
 
 <details>
 <summary>展开查看分类项目导航</summary>
+
+<blockquote>
 
 ### 科研与科学计算
 
@@ -66,6 +72,8 @@
 | 二中杀 · 桌面单机版 | Pygame桌面单机卡牌游戏，含DIY技能与AI对战 | [项目仓库](https://github.com/Wenxin666-code/erzhongsha-desktop) · [游戏下载](https://github.com/Wenxin666-code/erzhongsha-desktop/releases/latest/download/Erzhongsha-windows-x64.zip) |
 | Game Jam 玩法与角色原型 | Godot程序化玩法、角色与场景原型（Fork仓库） | [项目仓库](https://github.com/Wenxin666-code/gamejam_2612_turn) |
 
+</blockquote>
+
 </details>
 
 ## 科研工作
@@ -73,11 +81,15 @@
 <details>
 <summary>展开查看科研工作</summary>
 
+<blockquote>
+
 - **基于物理信息神经算子的超材料力学性能预测｜进行中**  
   参与科研数据处理、神经网络模型搭建与实验评估，探索人工智能在材料力学性能预测中的应用。
 
 - **暑期科研见习（PRP）· AI材料计算助研岗｜已结题**  
   2026.07 — 2026.08｜项目编号：T260SRIP01002｜负责人：黎阳
+
+</blockquote>
 
 </details>
 
@@ -86,8 +98,12 @@
 <details>
 <summary>展开查看任职与工作详情</summary>
 
+<blockquote>
+
 <details>
 <summary><strong>上海交通大学 · 2513班团支部书记</strong> ｜ 2025.10 — 至今</summary>
+
+<blockquote>
 
 - **2026.11**｜组织“星火晤面·与时代同行者对话”四班团支部联合团日活动。
 - **2026.09**｜参与本科生综合测评审核工作。
@@ -100,34 +116,50 @@
 - **2025.11**｜担任“青马工程”团支书培训班大组长，获评“优秀组长”。
 - **2025.10**｜担任2513班团支部书记，协助老师开展团组织关系转入工作。
 
+</blockquote>
+
 </details>
 
 <details>
 <summary><strong>上海交通大学数学科学学院学生会 · 文体部干事</strong> ｜ 2026.03 — 至今</summary>
 
+<blockquote>
+
 - **2026.09**｜参与“秋是__”游园会的学生工作。
 - **2026.04**｜参与“交大人节”的学生工作。
 - **2026.03**｜加入数学科学学院学生会文体部，参与“春日雅集”的学生工作。
+
+</blockquote>
 
 </details>
 
 <details>
 <summary><strong>上海交通大学校团委组织部 · 团务中心干事</strong> ｜ 2026.11 — 至今</summary>
 
+<blockquote>
+
 - **2026.11**｜参与2026年三好学生、优秀学生干部审核工作。
 - **2026.11**｜加入上海交通大学校团委组织部团务中心，担任干事。
+
+</blockquote>
 
 </details>
 
 <details>
 <summary><strong>上海交通大学第三十八次学生代表大会 · 第4代表团学生代表</strong> ｜ 2026.11 — 至今</summary>
 
+<blockquote>
+
 - **2026.11**｜成为第三十八次学生代表大会第4代表团学生代表，参与学生代表提案工作。
+
+</blockquote>
 
 </details>
 
 <details>
 <summary><strong>武汉二中 · 学生会与班级工作</strong> ｜ 2022.09 — 2025.06</summary>
+
+<blockquote>
 
 **任职与组织建设**
 
@@ -185,7 +217,11 @@
 
 <!-- 活动总数依据本人逐条经历：8项组织、9项参与组织、5项指导；按不同日期分别计数。宣传、代表发言及仅参与的团务活动未计入活动组织总数。 -->
 
+</blockquote>
+
 </details>
+
+</blockquote>
 
 </details>
 
@@ -194,10 +230,14 @@
 <details>
 <summary>展开查看社会实践与交流经历</summary>
 
+<blockquote>
+
 - **2026.07｜社会实践小组长**：在“探微绿境寻幽萃·数智申城绘锦图”社会实践活动中担任小组长。
 - **2025.09｜新生代表发言**：出席上海交通大学湖北校友会迎新送新会，作为新生代表发言。  
   [查看活动报道](https://mp.weixin.qq.com/s/GIW4Aqpt79ARkzs--71HcA)
 - **2025.05｜学生代表与宣传写作**：作为学生代表出席高考心理赋能讲座，并撰写通讯稿。
+
+</blockquote>
 
 </details>
 
@@ -205,6 +245,8 @@
 
 <details>
 <summary>展开查看荣誉、证书与成绩记录</summary>
+
+<blockquote>
 
 | 时间 | 荣誉 / 奖项 | 相关活动 / 说明 |
 | :--- | :--- | :--- |
@@ -225,6 +267,8 @@
 <details>
 <summary>2026年全国大学生数学建模竞赛 · 上海赛区本科组三等奖公示</summary>
 
+<blockquote>
+
 公示名单第27张图片、本科组三等奖序号495：上海交通大学，张艺严。
 
 [查看完整公示（中国大学生在线，2026.11.11）](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) · [查看项目代码与论文](https://github.com/Wenxin666-code/cumcm-2026-a)
@@ -233,10 +277,14 @@
 
 *以上依据获奖名单初稿公示记录，非获奖证书。图片来源：中国大学生在线。*
 
+</blockquote>
+
 </details>
 
 <details>
 <summary>2026.11 上海市第十八届运动会 · 男子手枪团体第四名</summary>
+
+<blockquote>
 
 2026年11月1日，代表上海交通大学参加高校组男子光电精准射击（手枪）比赛，获得团体第四名，总成绩984环。
 
@@ -248,33 +296,49 @@
 
 <img src="assets/honors/shooting-team.jpg" alt="上海交通大学光电射击代表队合影" width="760">
 
+</blockquote>
+
 </details>
 
 <details>
 <summary>2025.11 “青马工程”团支书培训班 · 优秀组长证书</summary>
 
+<blockquote>
+
 <img src="assets/honors/qingma-outstanding-leader.png" alt="张艺严，2025年秋季学期青马工程团支书培训班优秀组长结业证书" width="660">
+
+</blockquote>
 
 </details>
 
 <details>
 <summary>2025.11 入党积极分子培训班 · 结业考核优秀证书</summary>
 
+<blockquote>
+
 <img src="assets/honors/party-training-excellent.png" alt="张艺严，2025年11月12日入党积极分子培训班结业考核优秀证书" width="660">
+
+</blockquote>
 
 </details>
 
 <details>
 <summary>2025—2026学年秋季学期联合团日活动 · 一等奖证书（集体荣誉）</summary>
 
+<blockquote>
+
 获奖集体为数学2501、2502、2512、2513联合团支部。
 
 <img src="assets/honors/joint-league-first-prize.png" alt="数学2501、2502、2512、2513联合团支部，2025—2026学年秋季学期团日活动一等奖荣誉证书" width="520">
+
+</blockquote>
 
 </details>
 
 <details>
 <summary>2024.10 全国高中数学联合竞赛 · 湖北赛区二等奖</summary>
+
+<blockquote>
 
 获奖名单序号409：张艺严，武汉二中，高三。
 
@@ -282,10 +346,14 @@
 
 *名单来源：湖北省数学竞赛组织委员会，自主选拔在线转载*
 
+</blockquote>
+
 </details>
 
 <details>
 <summary>2023.10 全国高中数学联合竞赛 · 湖北赛区二等奖</summary>
+
+<blockquote>
 
 <img src="assets/honors/math-league-2023-second-prize-certificate.jpg" alt="张艺严2023年数学竞赛湖北赛区二等奖证书" width="760">
 
@@ -295,7 +363,11 @@
 
 *名单来源：湖北省数学竞赛组织委员会，自主选拔在线转载*
 
+</blockquote>
+
 </details>
+
+</blockquote>
 
 </details>
 
