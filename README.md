@@ -93,7 +93,7 @@
 
 </details>
 
-## 学生工作经历
+## 学生工作
 
 <details>
 <summary>展开查看任职与工作详情</summary>
@@ -205,6 +205,7 @@
 
 #### 校园宣传
 
+- **2025.05**｜作为学生代表出席高考心理赋能讲座，并撰写通讯稿。
 - **2024.07**｜出席第29—30届学生会换届仪式，作为第29届学生会成员代表发言。  
   [查看活动报道](https://mp.weixin.qq.com/s/JeSlFYGIl9ATyMhJeVQGLQ)
 - **2023.09**｜作为学生代表，为校感恩节庆典拍摄感恩视频。
@@ -221,21 +222,18 @@
 
 </details>
 
-</blockquote>
-
-</details>
-
-## 社会实践与交流
-
 <details>
-<summary>展开查看社会实践与交流经历</summary>
+<summary><strong>其他</strong></summary>
 
 <blockquote>
 
 - **2026.07｜社会实践小组长**：在“探微绿境寻幽萃·数智申城绘锦图”社会实践活动中担任小组长。
 - **2025.09｜新生代表发言**：出席上海交通大学湖北校友会迎新送新会，作为新生代表发言。  
   [查看活动报道](https://mp.weixin.qq.com/s/GIW4Aqpt79ARkzs--71HcA)
-- **2025.05｜学生代表与宣传写作**：作为学生代表出席高考心理赋能讲座，并撰写通讯稿。
+
+</blockquote>
+
+</details>
 
 </blockquote>
 
