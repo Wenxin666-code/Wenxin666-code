@@ -63,7 +63,7 @@
 | 项目 | 简介 | 入口 |
 | :--- | :--- | :--- |
 | 断线前沿 · Greyhaven RTS | Godot等距视角单人即时战略游戏 | [项目仓库](https://github.com/Wenxin666-code/greyhaven-rts) · [游戏下载](https://github.com/Wenxin666-code/greyhaven-rts/releases) |
-| 二中杀 · 桌面单机版 | Pygame桌面单机卡牌游戏，含DIY技能与AI对战 | [项目仓库](https://github.com/Wenxin666-code/erzhongsha-desktop) |
+| 二中杀 · 桌面单机版 | Pygame桌面单机卡牌游戏，含DIY技能与AI对战 | [项目仓库](https://github.com/Wenxin666-code/erzhongsha-desktop) · [游戏下载](https://github.com/Wenxin666-code/erzhongsha-desktop/releases/latest/download/Erzhongsha-windows-x64.zip) |
 | Game Jam 玩法与角色原型 | Godot程序化玩法、角色与场景原型（Fork仓库） | [项目仓库](https://github.com/Wenxin666-code/gamejam_2612_turn) |
 
 </details>
