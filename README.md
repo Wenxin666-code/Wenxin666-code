@@ -19,6 +19,22 @@
 
 <!-- 高中就读年份根据所提供的高中学生工作与大学入学时间整理，具体入学和毕业月份待补充。 -->
 
+## 项目导航
+
+### 科研与科学计算
+
+| 项目 | 简介 | 入口 |
+| :--- | :--- | :--- |
+| 物理信息神经算子与超材料力学 | 探索人工智能在三维超材料力学性能预测中的应用 | [项目介绍](#科研项目) |
+| 2026年全国大学生数学建模竞赛A题 | 药材热湿传递与收缩干燥建模，包含论文、程序、数据及验证材料 | [项目仓库](https://github.com/Wenxin666-code/cumcm-2026-a) |
+
+### 游戏开发
+
+| 项目 | 简介 | 入口 |
+| :--- | :--- | :--- |
+| 断线前沿 · Greyhaven RTS | Godot等距视角单人即时战略游戏 | [项目仓库](https://github.com/Wenxin666-code/greyhaven-rts) · [游戏下载](https://github.com/Wenxin666-code/greyhaven-rts/releases) |
+| Game Jam 玩法与角色原型 | Godot程序化玩法、角色与场景原型（Fork仓库） | [项目仓库](https://github.com/Wenxin666-code/gamejam_2612_turn) |
+
 ## 科研项目
 
 ### 基于物理信息神经算子的超材料力学性能预测
@@ -135,10 +151,15 @@
 
 ## 社会实践与交流
 
+<details>
+<summary>展开查看社会实践与交流经历</summary>
+
 - **2026.07｜社会实践小组长**：在“探微绿境寻幽萃·数智申城绘锦图”社会实践活动中担任小组长。
 - **2025.09｜新生代表发言**：出席上海交通大学湖北校友会迎新送新会，作为新生代表发言。  
   [查看活动报道](https://mp.weixin.qq.com/s/GIW4Aqpt79ARkzs--71HcA)
 - **2025.05｜学生代表与宣传写作**：作为学生代表出席高考心理赋能讲座，并撰写通讯稿。
+
+</details>
 
 ## 获得荣誉
 
@@ -207,6 +228,15 @@
 
 </details>
 
+## 联系方式
+
+| 邮箱 | 地址 |
+| :--- | :--- |
+| 上海交通大学 | [zhangyiyan@sjtu.edu.cn](mailto:zhangyiyan@sjtu.edu.cn) |
+| QQ | [2393089894@qq.com](mailto:2393089894@qq.com) |
+| Gmail | [yiyanz@gmail.com](mailto:yiyanz@gmail.com) |
+| Outlook | [yiyanz459@outlook.com](mailto:yiyanz459@outlook.com) |
+
 <!--
 ## 专业技能
 
@@ -215,4 +245,4 @@
 - **其他能力**：待补充，按实际情况填写语言、写作或组织协作能力。
 -->
 
-<!-- 专业技能栏目补充后，可移除其 HTML 注释以展示。联系方式仅在本人愿意公开时添加。 -->
+<!-- 专业技能栏目补充后，可移除其 HTML 注释以展示。 -->
