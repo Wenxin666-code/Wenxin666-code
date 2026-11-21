@@ -35,6 +35,9 @@
 
 ## 项目导航
 
+<details>
+<summary>展开查看分类项目导航</summary>
+
 ### 科研与科学计算
 
 | 项目 | 简介 | 入口 |
@@ -47,6 +50,8 @@
 | :--- | :--- | :--- |
 | 断线前沿 · Greyhaven RTS | Godot等距视角单人即时战略游戏 | [项目仓库](https://github.com/Wenxin666-code/greyhaven-rts) · [游戏下载](https://github.com/Wenxin666-code/greyhaven-rts/releases) |
 | Game Jam 玩法与角色原型 | Godot程序化玩法、角色与场景原型（Fork仓库） | [项目仓库](https://github.com/Wenxin666-code/gamejam_2612_turn) |
+
+</details>
 
 ## 科研项目
 
@@ -180,6 +185,9 @@
 
 ## 获得荣誉
 
+<details>
+<summary>展开查看荣誉、证书与成绩记录</summary>
+
 | 时间 | 荣誉 / 奖项 | 相关活动 / 说明 |
 | :--- | :--- | :--- |
 | 2026.11 | 上海赛区本科组三等奖 | 2026年“高教社杯”全国大学生数学建模竞赛 · [项目仓库](https://github.com/Wenxin666-code/cumcm-2026-a) · [查看公示](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) |
@@ -242,6 +250,8 @@
 获奖集体为数学2501、2502、2512、2513联合团支部。
 
 <img src="assets/honors/joint-league-first-prize.png" alt="数学2501、2502、2512、2513联合团支部，2025—2026学年秋季学期团日活动一等奖荣誉证书" width="520">
+
+</details>
 
 </details>
 
