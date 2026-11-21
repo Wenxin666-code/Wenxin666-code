@@ -64,11 +64,13 @@
 
 ### 上海交通大学第三十八次学生代表大会 · 第4代表团学生代表
 
-**2026.11**
+**2026.11 — 至今**
 
 - **2026.11**｜成为第三十八次学生代表大会第4代表团学生代表，参与学生代表提案工作。
 
 ### 武汉二中 · 学生会与班级工作
+
+**2022.09 — 2025.06**
 
 **任职与组织建设**
 
@@ -137,8 +139,8 @@
 
 | 时间 | 荣誉 / 奖项 | 相关活动 / 说明 |
 | :--- | :--- | :--- |
-| 2026.11 | 上海赛区本科组三等奖 | 2026年“高教社杯”全国大学生数学建模竞赛。[查看公示](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) |
-| 2026.11 | 男子光电精准射击（手枪）团体第四名 | 上海市第十八届运动会（高校组）。[查看学校报道](https://news.sjtu.edu.cn/zhxw/20261105/227287.html) |
+| 2026.11 | 上海赛区本科组三等奖 | 2026年“高教社杯”全国大学生数学建模竞赛 · [项目仓库](https://github.com/Wenxin666-code/cumcm-2026-a) · [查看公示](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) |
+| 2026.11 | 男子光电精准射击（手枪）团体第四名 | 上海市第十八届运动会（高校组） · [查看学校报道](https://news.sjtu.edu.cn/zhxw/20261105/227287.html) |
 | 2026.04 | 校级优秀团员 | 五四评优 |
 | 2025.11 | 优秀组长 | “青马工程”团支书培训班 |
 | 2025.11 | 结业考核优秀 | 数理分校第10期入党积极分子培训班 |
@@ -154,7 +156,7 @@
 
 公示名单第27张图片、本科组三等奖序号495：上海交通大学，张艺严。
 
-[查看完整公示（中国大学生在线，2026.11.11）](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) · [查看“三等奖”栏目标题原图](https://univs-news-1256833609.file.myqcloud.com/123/upload/resources/image/QE4DU25FQ22XKPN3EQ2XARVWLE4XAQM.jpg?watermark/1/image_key/dXBsb2FkL193YXRlcmltYWdlcy9zaXRlXzEyMy5wbmc/gravity/southeast)
+[查看完整公示（中国大学生在线，2026.11.11）](https://dxs.moe.gov.cn/zx/a/hd_sxjm_smkx/261111/2060187.shtml) · [查看项目代码与论文](https://github.com/Wenxin666-code/cumcm-2026-a)
 
 <img src="https://univs-news-1256833609.file.myqcloud.com/123/upload/resources/image/LE2DEQVUQ25XEPN3EQ2XARVWLE4XCQU.jpg?watermark/1/image_key/dXBsb2FkL193YXRlcmltYWdlcy9zaXRlXzEyMy5wbmc/gravity/southeast" alt="2026年数学建模竞赛上海赛区本科组三等奖公示，序号495列有张艺严" width="760">
 
