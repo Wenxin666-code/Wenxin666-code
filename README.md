@@ -289,6 +289,12 @@
 
 <img src="assets/honors/math-league-2023-second-prize-certificate.jpg" alt="张艺严2023年数学竞赛湖北赛区二等奖证书" width="760">
 
+获奖名单编号M223430346：张艺严，武汉二中，高二；编号与证书一致。
+
+<img src="assets/honors/math-league-2023-second-prize-list.jpg" alt="2023年数学竞赛湖北赛区二等奖名单，编号M223430346为武汉二中张艺严" width="760">
+
+*名单来源：湖北省数学竞赛组织委员会，自主选拔在线转载*
+
 </details>
 
 </details>
