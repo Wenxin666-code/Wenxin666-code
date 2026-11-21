@@ -8,6 +8,15 @@
 
 上海交通大学本科二年级在读，攻读数学与应用数学、人工智能双学位。
 
+## 联系方式
+
+| 邮箱 | 地址 |
+| :--- | :--- |
+| 上海交通大学 | [zhangyiyan@sjtu.edu.cn](mailto:zhangyiyan@sjtu.edu.cn) |
+| QQ | [2393089894@qq.com](mailto:2393089894@qq.com) |
+| Gmail | [yiyanz@gmail.com](mailto:yiyanz@gmail.com) |
+| Outlook | [yiyanz459@outlook.com](mailto:yiyanz459@outlook.com) |
+
 ## 教育背景
 
 <details>
@@ -30,7 +39,6 @@
 
 | 项目 | 简介 | 入口 |
 | :--- | :--- | :--- |
-| 物理信息神经算子与超材料力学 | 探索人工智能在三维超材料力学性能预测中的应用 | [项目介绍](#科研项目) |
 | 2026年全国大学生数学建模竞赛A题 | 药材热湿传递与收缩干燥建模，包含论文、程序、数据及验证材料 | [项目仓库](https://github.com/Wenxin666-code/cumcm-2026-a) |
 
 ### 游戏开发
@@ -236,15 +244,6 @@
 <img src="assets/honors/joint-league-first-prize.png" alt="数学2501、2502、2512、2513联合团支部，2025—2026学年秋季学期团日活动一等奖荣誉证书" width="520">
 
 </details>
-
-## 联系方式
-
-| 邮箱 | 地址 |
-| :--- | :--- |
-| 上海交通大学 | [zhangyiyan@sjtu.edu.cn](mailto:zhangyiyan@sjtu.edu.cn) |
-| QQ | [2393089894@qq.com](mailto:2393089894@qq.com) |
-| Gmail | [yiyanz@gmail.com](mailto:yiyanz@gmail.com) |
-| Outlook | [yiyanz459@outlook.com](mailto:yiyanz459@outlook.com) |
 
 <!--
 ## 专业技能
