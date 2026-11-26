@@ -103,7 +103,7 @@
 
 - **标准（2,2）猜想的轻权冲突匹配与整体重染｜进行中**  
   研究图的边着色与边赋权，分析冲突边的结构与整体重染条件，并用 Lean 对部分结果进行形式化验证。  
-  [论文仓库（私有）](https://github.com/Wenxin666-code/standard-22-conjecture)
+  [论文仓库](https://github.com/Wenxin666-code/standard-2-2-conjecture-conflict-matchings)
 
 - **基于物理信息神经算子的超材料力学性能预测｜进行中**  
   参与科研数据处理、神经网络模型搭建与实验评估，探索人工智能在材料力学性能预测中的应用。
